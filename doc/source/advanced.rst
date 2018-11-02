@@ -87,7 +87,7 @@ To install using ``bootstrap`` script follow these steps:
    curl -fsSL https://raw.githubusercontent.com/sayerhs/exawind-builder/master/bootstrap.sh
 
    # Invoke by providing the system specification (cori is shown as example here)
-   ./bootstrap.sh -p cori
+   ./bootstrap.sh -s cori
 
 
 .. _installation:
